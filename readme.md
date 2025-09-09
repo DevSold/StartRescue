@@ -33,7 +33,7 @@ Feito em **Kotlin + Jetpack Compose**.
 <p align="center">
   <a href="docs/exam_claro-english.png"><img src="docs/exam_claro_english.png" alt="Exam (light, EN)" width="320" /></a>
   <a href="docs/result.png"><img src="docs/result.png" alt="Result" width="320" /></a>
-  <a href="docs/fluxograma.png"><img src="docs/fluxograma.png" alt="START Flowchart" width="320" /></a>
+  <a href="docs/Fluxograma.png"><img src="docs/Fluxograma.png" alt="START Flowchart" width="320" /></a>
 </p>
 <p align="center">
   <sub>Exam (light, EN)</sub> &nbsp;&nbsp;&nbsp;&nbsp;
