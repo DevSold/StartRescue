@@ -22,7 +22,7 @@ Feito em **Kotlin + Jetpack Compose**.
 <p align="center">
   <a href="docs/home.png"><img src="docs/home.png" alt="Home (dark)" width="320" /></a>
   <a href="docs/home_tela_clara.png"><img src="docs/home_tela_clara.png" alt="Home (light)" width="320" /></a>
-  <a href="docs/exam.png"><img src="docs/exam.png" alt="Exam (dark)" width="320" /></a>
+<a href="docs/exam_claro_english.png"><img src="docs/exam_claro_english.png" alt="Exam (light, EN)" width="320" /></a>
 </p>
 <p align="center">
   <sub>Home (dark)</sub> &nbsp;&nbsp;&nbsp;&nbsp;
