@@ -54,6 +54,7 @@ Feito em **Kotlin + Jetpack Compose**.
 
 ## 🔗 Política de Privacidade
 PT: https://devsold.github.io/startrescue-privacy/politica.html
+</p>
 EN: https://devsold.github.io/startrescue-privacy/privacy.html
 
 
