@@ -30,9 +30,9 @@ Feito em **Kotlin + Jetpack Compose**.
 </p>
 
 <p align="center">
-  <a href="docs/exam-light-en.png"><img src="docs/exam-light-en.png" alt="Exam (light, EN)" width="320" /></a>
+  <a href="docs/exam-light-en.png"><img src="docs/exam-claro-english-en.png" alt="Exam (light, EN)" width="320" /></a>
   <a href="docs/result.png"><img src="docs/result.png" alt="Result" width="320" /></a>
-  <a href="docs/fluxograma.png"><img src="docs/fluxograma.png" alt="START Flowchart" width="320" /></a>
+  <a href="docs/fluxograma.png"><img src="docs/Fluxograma.png" alt="START Flowchart" width="320" /></a>
 </p>
 <p align="center">
   <sub>Exam (light, EN)</sub> &nbsp;&nbsp;&nbsp;&nbsp;
