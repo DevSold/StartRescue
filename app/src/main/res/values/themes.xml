@@ -1,0 +1,4 @@
+<resources>
+    <!-- Usamos AppCompat pois o tema XML Material3 de Views não está no projeto -->
+    <style name="Theme.StartRescue" parent="Theme.AppCompat.DayNight.NoActionBar" />
+</resources>

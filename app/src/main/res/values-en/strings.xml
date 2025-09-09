@@ -1,0 +1,72 @@
+<resources>
+    <!-- App -->
+    <string name="app_name">StartRescue</string>
+    <string name="app_title">START Method</string>
+
+
+    <!-- TopBar / Actions -->
+    <string name="action_theme_light">Light</string>
+    <string name="action_theme_dark">Dark</string>
+    <string name="action_choose_language">Language</string>
+    <string name="language_portuguese">Portuguese</string>
+    <string name="language_english">English</string>
+    <string name="action_flowchart">START Flowchart</string>
+
+    <!-- Home / Form -->
+    <string name="label_name">Name</string>
+    <string name="label_sector">Sector</string>
+    <string name="label_ra">ID</string>
+    <string name="form_start_eval">Start evaluation</string>
+
+    <!-- Exam / Buttons / Actions -->
+    <string name="btn_exit">Exit</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_finish">Finish</string>
+    <string name="btn_apply_airway">Open airway</string>
+    <string name="btn_apply_tq">Apply tourniquet</string>
+    <string name="pill_tq_applied">Tourniquet applied</string>
+    <string name="pill_va_applied_yes">Airway opened: breathing</string>
+    <string name="pill_va_applied_no">Airway opened: not breathing</string>
+
+    <!-- Colors -->
+    <string name="btn_green">GREEN</string>
+    <string name="btn_yellow">YELLOW</string>
+    <string name="btn_red">RED</string>
+    <string name="btn_black">BLACK</string>
+
+    <!-- Case -->
+    <string name="section_case">Case</string>
+    <string name="loading_patient">Loading patient…</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="sex_male">Male</string>
+    <string name="sex_female">Female</string>
+    <string name="label_age">Age</string>
+    <string name="label_sex">Sex</string>
+    <string name="label_exsang">Exsanguinating hemorrhage</string>
+    <string name="label_deambula">Ambulatory</string>
+    <string name="label_resp_init">Breathing (initial)</string>
+    <string name="label_resp_after_va">Breathing after airway</string>
+    <string name="label_fr">RR</string>
+    <string name="label_tec">CRT</string>
+    <string name="label_obeys">Follows commands</string>
+    <string name="label_preg34">Pregnant &gt;34w</string>
+    <string name="label_lesions">Observed injuries</string>
+
+    <!-- Result -->
+    <string name="result_title">Result</string>
+    <string name="result_accuracy">%1$d of %2$d (%3$d%%) correct</string>
+    <string name="result_email">Email to send</string>
+    <string name="result_send_pdf_email">Send PDF by email</string>
+    <string name="result_export_csv">Export CSV</string>
+    <string name="result_export_pdf">Export PDF</string>
+    <string name="result_restart">Restart</string>
+    <string name="result_home">Back to Home</string>
+
+    <!-- About -->
+    <string name="about_version">Version: %1$s (%2$d)</string>
+
+    <string name="about_title">About</string>
+    <string name="about_description">Training app for the START triage method.</string>
+    <string name="about_privacy">Privacy Policy</string>
+</resources>

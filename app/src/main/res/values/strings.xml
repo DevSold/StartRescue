@@ -1,0 +1,72 @@
+<resources>
+    <!-- App -->
+    <string name="app_name">StartRescue</string>
+    <string name="app_title">Método START</string>
+
+
+    <!-- TopBar / Ações -->
+    <string name="action_theme_light">Claro</string>
+    <string name="action_theme_dark">Escuro</string>
+    <string name="action_choose_language">Idioma</string>
+    <string name="language_portuguese">Português</string>
+    <string name="language_english">Inglês</string>
+    <string name="action_flowchart">Fluxograma START</string>
+
+    <!-- Home / Formulário -->
+    <string name="label_name">Nome</string>
+    <string name="label_sector">Setor</string>
+    <string name="label_ra">RA</string>
+    <string name="form_start_eval">Iniciar avaliação</string>
+
+    <!-- Prova / Botões / Ações -->
+    <string name="btn_exit">Sair</string>
+    <string name="btn_next">Próxima</string>
+    <string name="btn_finish">Finalizar</string>
+    <string name="btn_apply_airway">Liberar vias aéreas</string>
+    <string name="btn_apply_tq">Aplicar torniquete</string>
+    <string name="pill_tq_applied">Torniquete aplicado</string>
+    <string name="pill_va_applied_yes">VA aplicada: respira</string>
+    <string name="pill_va_applied_no">VA aplicada: não respira</string>
+
+    <!-- Cores -->
+    <string name="btn_green">VERDE</string>
+    <string name="btn_yellow">AMARELO</string>
+    <string name="btn_red">VERMELHO</string>
+    <string name="btn_black">ÓBITO</string>
+
+    <!-- Caso -->
+    <string name="section_case">Caso</string>
+    <string name="loading_patient">Carregando paciente…</string>
+    <string name="yes">SIM</string>
+    <string name="no">NÃO</string>
+    <string name="sex_male">Masculino</string>
+    <string name="sex_female">Feminino</string>
+    <string name="label_age">Idade</string>
+    <string name="label_sex">Sexo</string>
+    <string name="label_exsang">Hemorragia exsanguinante</string>
+    <string name="label_deambula">Deambula</string>
+    <string name="label_resp_init">Respira (inicial)</string>
+    <string name="label_resp_after_va">Respira após abrir VA</string>
+    <string name="label_fr">FR</string>
+    <string name="label_tec">TEC</string>
+    <string name="label_obeys">Obedece comandos</string>
+    <string name="label_preg34">Gestante &gt;34s</string>
+    <string name="label_lesions">Lesões observadas</string>
+
+    <!-- Resultado -->
+    <string name="result_title">Resultado</string>
+    <string name="result_accuracy">%1$d de %2$d (%3$d%%) de acerto</string>
+    <string name="result_email">E-mail para envio</string>
+    <string name="result_send_pdf_email">Enviar PDF por e-mail</string>
+    <string name="result_export_csv">Exportar CSV</string>
+    <string name="result_export_pdf">Exportar PDF</string>
+    <string name="result_restart">Reiniciar</string>
+    <string name="result_home">Voltar ao início</string>
+
+    <!-- About -->
+    <string name="about_version">Versão: %1$s (%2$d)</string>
+
+    <string name="about_title">Sobre o app</string>
+    <string name="about_description">Aplicativo de simulação de triagem START para treinamento educacional.</string>
+    <string name="about_privacy">Política de Privacidade</string>
+</resources>

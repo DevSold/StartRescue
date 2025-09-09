@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <title>Relatório de Triagem</title>
+    <style>
+        :root{
+          --fg:#111; --muted:#555; --border:#ddd;
+          --green:#2e7d32; --yellow:#f9a825; --red:#c62828; --black:#000;
+          --chip:#f3f4f6;
+        }
+        body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,'Helvetica Neue',Arial;
+             color:var(--fg); margin:24px;}
+        h1{margin:0 0 8px 0; font-size:20pt}
+        .meta{color:var(--muted); margin-bottom:16px; font-size:10pt}
+        table{width:100%; border-collapse:collapse; table-layout:fixed}
+        th,td{border:1px solid var(--border); padding:6px; font-size:9pt; vertical-align:top; word-wrap:break-word}
+        th{background:#fafafa; font-weight:600}
+        tr:nth-child(even) td{background:#fcfcfc}
+        .tag{display:inline-block; padding:3px 6px; border-radius:6px; font-weight:700; color:#fff; font-size:9pt}
+        .green{background:var(--green)} .yellow{background:var(--yellow)}
+        .red{background:var(--red)} .black{background:var(--black)}
+        .chipbox{background:var(--chip); border-radius:10px; padding:10px; margin:10px 0}
+        /* Quebras elegantes */
+        thead {display: table-header-group;}
+        tfoot {display: table-footer-group;}
+        tr{page-break-inside:avoid}
+        @page{ size:A4; margin:14mm }
+    </style>
+</head>
+<body>
+<h1>Resultado Final — {{ACERTOS}}/{{TOTAL}} (Acurácia: {{ACURACIA}})</h1>
+<div class="meta">Gerado em {{DATA}} • Operador: {{OPERADOR}}</div>
+
+<div class="chipbox">
+    Torniquete obrigatório quando Hemorragia Exsanguinante = SIM. Pulso apenas informativo; não define cor.
+</div>
+
+<table>
+    <thead>
+    <tr>
+        <th>#</th>
+        <th>Idade</th>
+        <th>Sexo</th>
+        <th>Deambula</th>
+        <th>Respira</th>
+        <th>HE</th>
+        <th>FR</th>
+        <th>TEC</th>
+        <th>Obedece</th>
+        <th>Lesões</th>
+        <th>Cor Correta</th>
+        <th>Resposta</th>
+    </tr>
+    </thead>
+    <tbody>
+    {{LINHAS}}
+    </tbody>
+</table>
+</body>
+</html>
