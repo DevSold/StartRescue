@@ -46,7 +46,9 @@ Feito em **Kotlin + Jetpack Compose**.
   </a>
 </p>
 
-> Ajuste `width="320"` se quiser miniaturas maiores/menores.
+## 📄 Relatório de exemplo (PDF)
+➡️ [Abrir resultado de triagem (PDF)](docs/resultado_triagem.pdf)
+
 
 ---
 
