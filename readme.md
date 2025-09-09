@@ -20,7 +20,7 @@ Feito em **Kotlin + Jetpack Compose**.
 
 <p align="center">
   <a href="docs/home.png"><img src="docs/home.png" alt="Home (dark)" width="320" /></a>
-  <a href="docs/home-light.png"><img src="docs/home-light.png" alt="Home (light)" width="320" /></a>
+  <a href="docs/home-light.png"><img src="docs/home-tela-clara.png" alt="Home (light)" width="320" /></a>
   <a href="docs/exam.png"><img src="docs/exam.png" alt="Exam (dark)" width="320" /></a>
 </p>
 <p align="center">
@@ -30,7 +30,7 @@ Feito em **Kotlin + Jetpack Compose**.
 </p>
 
 <p align="center">
-  <a href="docs/exam-light-en.png"><img src="docs/exam-claro-english-en.png" alt="Exam (light, EN)" width="320" /></a>
+  <a href="docs/exam-light-en.png"><img src="docs/exam-claro-english.png" alt="Exam (light, EN)" width="320" /></a>
   <a href="docs/result.png"><img src="docs/result.png" alt="Result" width="320" /></a>
   <a href="docs/fluxograma.png"><img src="docs/Fluxograma.png" alt="START Flowchart" width="320" /></a>
 </p>
