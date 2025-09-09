@@ -15,8 +15,9 @@ android {
         versionCode = 1
         versionName = "1.0"
 
-        // 👇 URL da política de privacidade
-        buildConfigField("String", "PRIVACY_URL", "\"https://seu-link-publico.com/politica\"")
+- Português: https://DevSold.github.io/StartRescue/politica.html
+- English:  https://DevSold.github.io/StartRescue/privacy.html
+
     }
 
 
