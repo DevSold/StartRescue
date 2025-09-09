@@ -19,12 +19,28 @@ Feito em **Kotlin + Jetpack Compose**.
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="docs/home.png" alt="Home" width="320" />
-  <img src="docs/exam.png" alt="Exam" width="320" />
-  <img src="docs/result.png" alt="Result" width="320" />
+  <a href="docs/home.png"><img src="docs/home.png" alt="Home (dark)" width="320" /></a>
+  <a href="docs/home-light.png"><img src="docs/home-light.png" alt="Home (light)" width="320" /></a>
+  <a href="docs/exam.png"><img src="docs/exam.png" alt="Exam (dark)" width="320" /></a>
+</p>
+<p align="center">
+  <sub>Home (dark)</sub> &nbsp;&nbsp;&nbsp;&nbsp;
+  <sub>Home (light)</sub> &nbsp;&nbsp;&nbsp;&nbsp;
+  <sub>Exam (dark)</sub>
 </p>
 
-> As imagens ficam em `docs/` (raiz). Se precisar reduzir/aumentar, ajuste `width="320"`.
+<p align="center">
+  <a href="docs/exam-light-en.png"><img src="docs/exam-light-en.png" alt="Exam (light, EN)" width="320" /></a>
+  <a href="docs/result.png"><img src="docs/result.png" alt="Result" width="320" /></a>
+  <a href="docs/fluxograma.png"><img src="docs/fluxograma.png" alt="START Flowchart" width="320" /></a>
+</p>
+<p align="center">
+  <sub>Exam (light, EN)</sub> &nbsp;&nbsp;&nbsp;&nbsp;
+  <sub>Result</sub> &nbsp;&nbsp;&nbsp;&nbsp;
+  <sub>START Flowchart</sub>
+</p>
+
+> Ajuste `width="320"` se quiser miniaturas maiores/menores.
 
 ---
 
@@ -68,7 +84,5 @@ android {
         )
     }
 
-    buildFeatures {
-        buildConfig = true
-    }
+    buildFeatures { buildConfig = true }
 }
