@@ -6,6 +6,7 @@ Feito em **Kotlin + Jetpack Compose**.
 ---
 
 ## ✨ Funcionalidades
+
 - Fluxo START completo (deambula → respiração → FR → TEC/CRT → obediência a comandos)
 - Hemorragia exsanguinante com **torniquete obrigatório**
 - Abertura de vias aéreas (VA) com lógica de respiração pós-VA
@@ -20,7 +21,7 @@ Feito em **Kotlin + Jetpack Compose**.
 
 <p align="center">
   <a href="docs/home.png"><img src="docs/home.png" alt="Home (dark)" width="320" /></a>
-  <a href="docs/home-light.png"><img src="docs/home-tela-clara.png" alt="Home (light)" width="320" /></a>
+  <a href="docs/home_tela_clara.png"><img src="docs/home_tela_clara.png" alt="Home (light)" width="320" /></a>
   <a href="docs/exam.png"><img src="docs/exam.png" alt="Exam (dark)" width="320" /></a>
 </p>
 <p align="center">
@@ -30,14 +31,19 @@ Feito em **Kotlin + Jetpack Compose**.
 </p>
 
 <p align="center">
-  <a href="docs/exam-light-en.png"><img src="docs/exam-claro-english.png" alt="Exam (light, EN)" width="320" /></a>
+  <a href="docs/exam_claro-english.png"><img src="docs/exam_claro_english.png" alt="Exam (light, EN)" width="320" /></a>
   <a href="docs/result.png"><img src="docs/result.png" alt="Result" width="320" /></a>
-  <a href="docs/fluxograma.png"><img src="docs/Fluxograma.png" alt="START Flowchart" width="320" /></a>
+  <a href="docs/fluxograma.png"><img src="docs/fluxograma.png" alt="START Flowchart" width="320" /></a>
 </p>
 <p align="center">
   <sub>Exam (light, EN)</sub> &nbsp;&nbsp;&nbsp;&nbsp;
   <sub>Result</sub> &nbsp;&nbsp;&nbsp;&nbsp;
   <sub>START Flowchart</sub>
+</p>
+<p align="center">
+  <a href="docs/resultado_triagem.pdf">
+    <img src="docs/result.png" alt="Abrir PDF do resultado" width="320" />
+  </a>
 </p>
 
 > Ajuste `width="320"` se quiser miniaturas maiores/menores.
@@ -45,14 +51,16 @@ Feito em **Kotlin + Jetpack Compose**.
 ---
 
 ## 🔗 Política de Privacidade
-- Português: https://DevSold.github.io/startrescue-privacy/politica.html  
-- English:  https://DevSold.github.io/startrescue-privacy/privacy.html
+
+- Português: https://DevSold.github.io/startrescue-privacy/politica.html
+- English: https://DevSold.github.io/startrescue-privacy/privacy.html
 
 > A URL usada no app vem de `BuildConfig.PRIVACY_URL` (definida no Gradle).
 
 ---
 
 ## 🛠️ Tech
+
 - Kotlin • Jetpack Compose (Material 3)
 - ViewModel/State + corrotinas
 - Geração de PDF/CSV nativa
@@ -86,3 +94,4 @@ android {
 
     buildFeatures { buildConfig = true }
 }
+```
