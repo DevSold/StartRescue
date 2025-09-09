@@ -54,8 +54,9 @@ Feito em **Kotlin + Jetpack Compose**.
 
 ## 🔗 Política de Privacidade
 
-- Português: https://DevSold.github.io/startrescue-privacy/politica.html
-- English: https://DevSold.github.io/startrescue-privacy/privacy.html
+- Português: https://DevSold.github.io/StartRescue/politica.html
+- English:  https://DevSold.github.io/StartRescue/privacy.html
+
 
 > A URL usada no app vem de `BuildConfig.PRIVACY_URL` (definida no Gradle).
 
