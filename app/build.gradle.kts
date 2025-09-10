@@ -15,9 +15,17 @@ android {
         versionCode = 1
         versionName = "1.0"
 
-- Português: https://DevSold.github.io/StartRescue/politica.html
-- English:  https://DevSold.github.io/StartRescue/privacy.html
-
+        // 👇 URL da política de privacidade
+        buildConfigField(
+            "String",
+            "PRIVACY_URL_PT",
+            "\"https://devsold.github.io/startrescue-privacy/politica.html\""
+        )
+        buildConfigField(
+            "String",
+            "PRIVACY_URL_EN",
+            "\"https://devsold.github.io/startrescue-privacy/privacy.html\""
+        )
     }
 
 
