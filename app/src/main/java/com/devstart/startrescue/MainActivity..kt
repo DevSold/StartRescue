@@ -213,8 +213,9 @@ private fun HomeScreen(vm: StartRescueViewModel, onStart: () -> Unit, onStartAbo
             modifier = Modifier.fillMaxWidth(),
             shape = RoundedCornerShape(16.dp)
         ) {
-            Text("Sobre o app")
+            Text(stringResource(R.string.btn_about))
         }
+
 
     }
 }
