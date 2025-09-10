@@ -27,6 +27,8 @@
     <string name="pill_tq_applied">Tourniquet applied</string>
     <string name="pill_va_applied_yes">Airway opened: breathing</string>
     <string name="pill_va_applied_no">Airway opened: not breathing</string>
+    <string name="btn_about">About the app</string>
+
 
     <!-- Colors -->
     <string name="btn_green">GREEN</string>
