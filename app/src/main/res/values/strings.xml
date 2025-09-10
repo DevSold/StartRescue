@@ -27,6 +27,8 @@
     <string name="pill_tq_applied">Torniquete aplicado</string>
     <string name="pill_va_applied_yes">VA aplicada: respira</string>
     <string name="pill_va_applied_no">VA aplicada: não respira</string>
+    <string name="btn_about">Sobre o app</string>
+
 
     <!-- Cores -->
     <string name="btn_green">VERDE</string>
